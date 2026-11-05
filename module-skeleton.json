@@ -1,0 +1,25 @@
+{
+  "repository": "module-theme-support-filament",
+  "capabilityKey": "liberusoftware/theme-support",
+  "presentation": "laravel-filament",
+  "package": "liberusoftware/theme-support-filament",
+  "foundation": "module-boilerplate-filament",
+  "foundationCommit": "9282e55622b1abd4db48da891480cd9cac46c158",
+  "canonicalPlan": "projects/boilerplate/nextjs/theme-support.md",
+  "presentationPlan": "projects/boilerplate/filament/theme-support.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting",
+    "automation",
+    "billing",
+    "boilerplate",
+    "browser-game",
+    "control-panel",
+    "crm",
+    "genealogy",
+    "maintenance",
+    "real-estate",
+    "social-network"
+  ]
+}
